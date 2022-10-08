@@ -1,0 +1,58 @@
+IF976 - Banco de Dados
+
+Atividade 01
+
+
+1. Defina os seguintes termos: 
+
+- dados
+
+- banco de dados
+
+- SGBD
+
+- Sistema de banco de dados
+
+- metadata
+
+- modelo de dados
+
+- esquema de banco de dados
+
+- estado de um banco de dados
+
+- esquema conceitual de BD
+
+- esquema lógico de BD
+
+- esquema físico de BD
+
+- DDL
+
+- DML
+
+- SQL
+
+2- Discuta as principais diferenças entre adotar um banco de dados/SGBD para armazenar/gerenciar dados e os tradicionais sistemas de arquivos.
+
+3- Discuta as principais funcionalidades que um SGBD deve oferecer.
+
+4- Qual a diferença entre independência de dados lógica e independência de dados física? Qual delas é mais difícil de alcançar? Por que?
+
+5- Dê um exemplo de aplicação que poderia se beneficiar de um banco de dados/SGBD relacional para armazenar e gerenciar  dados. Por que?
+
+6- Dê um exemplo de aplicação que poderia se beneficiar de uma abordagem NOSQL para armazenar e gerenciar  dados. Por que?
+
+7- Leia os textos abaixo e faça um resumo sobre a evolução dos bancos de dados.
+
+https://medium.com/@rpolding/databases-evolution-and-change-29b8abe9df3e
+https://www.dataversity.net/the-actionable-metadata/
+
+
+Referências
+
+https://www.techopedia.com/2/31970/it-business/7-reasons-why-you-need-a-database-management-system
+https://learnsql.com/blog/types-of-database-jobs/#top
+
+Capítulos 1 e 2, Fundamentos de Banco de Dados, Elmasri & Navathe, https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Sistemas%20de%20Banco%20de%20Dados%20navathe%206%C2%AA%20Edicao.pdf 
+
